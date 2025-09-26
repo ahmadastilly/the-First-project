@@ -6,10 +6,11 @@
 int main()
 {
     std::cout << "==============================\n";
-    std::cout << "I Love you Ahmad\n";
-    std::cout << "I Love you Too,Bilal\n";
+    std::cout << "I Love you Ahmad\n"; 
     std::cout << "==============================\n";
 
+      
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
